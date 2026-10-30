@@ -1,0 +1,13 @@
+# Phyton cache
+__pycache__/
+*.py[cod]
+
+# Virtual enviroment
+venv/
+.veenv/
+
+# Enviroment variables
+.env
+
+# VS Code
+.vscode/
